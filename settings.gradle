@@ -1,0 +1,4 @@
+rootProject.name = 'visage'
+include 'visage-core'
+include 'visage-aws-sqs'
+
